@@ -40,7 +40,7 @@ Chama relies on [Firebase](https://firebase.google.com/) to give our dealers a r
 ## Instructions
 Create a new repo into your favorite git platform (github, bitbucket, etc), copy this README into it. You're free to edit it, though it should preserve the must-have functionalities and stack.
 
-**After you finished, you can share the repository URL with us or just emailing a .zip containing the source code is enough.**
+**After you finished, you can share the repository URL with us (preference) or just send us a .zip containing the source code.**
 
 When you're done, share your repositoy's and Firebase hosting's URL.
 
