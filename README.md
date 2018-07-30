@@ -38,7 +38,7 @@ Chama relies on [Firebase](https://firebase.google.com/) to give our dealers a r
 * Don't need to re-invent the wheel, for components like Datepickers and/or Timepicker you can use [Material-ui](https://github.com/callemall/material-ui) or any other of your choice, it has great integration with React environments.
 
 ## Instructions
-Create a new repo into your favorite git platform (github, bitbucket, etc), copy this Readme into it. You're free to edit it, though it should preserve the must-have functionalities and stack.
+Create a new repo into your favorite git platform (github, bitbucket, etc), copy this README into it. You're free to edit it, though it should preserve the must-have functionalities and stack.
 
 When you're done, share your repositoy's and Firebase hosting's URL.
 
