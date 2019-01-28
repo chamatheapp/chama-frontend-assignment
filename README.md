@@ -37,7 +37,7 @@ Chama relies on [Firebase](https://firebase.google.com/) to give our dealers a r
 * If you wish to spend less time writing boilerplate code, go to http://todomvc.com/, on this website, you will find many sample implementations of the same TO-DO application, every time using a different framework. You can choose the [React](http://todomvc.com/examples/react/#/) implementation as a starting point. It's OK to use the same styling as the original application.
 * Don't need to re-invent the wheel, for components like Datepickers and/or Timepicker you can use [Material-ui](https://github.com/callemall/material-ui) or any other of your choice, it has great integration with React environments.
 * This is a test of your skills (mainly) with React, Redux and Firebase. Though we allow third-person libraries, keep in mind that we need to read some code of yours with those tools, so you should avoid not writing code which touches them.
-* As a company, we believe that communication is the key to success, if something is not clear to you, or if you have doubts on what you can use, reach us!
+* As a company, we believe that communication is the key to success. So if something is not clear to you, or if you have doubts on what you can use, reach the devs.
 
 ## Instructions
 Create a new repo into your favorite git platform (github, bitbucket, etc), copy this README into it. You're free to edit it, though it should preserve the must-have functionalities and stack.
