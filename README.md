@@ -27,9 +27,16 @@ Chama also uses [Firebase](https://firebase.google.com/) to give our dealers a r
 
 If you're not experienced with this kind of stuff and want to give it a shot, you can create an account in their free-plan with your own Goolge account.
 
+### Layouting the app
+Don't invest too much on a beautiful visual because in real-life at Chama it would be handed out to you - as a front-ender here you would be able to suggest changes, of course.
+
+But put energy on using good HTML and CSS, it can be vanilla or pre-processed.
+
 ### Must have
 - [ ] Assign priority to a TO-DO and sort them by **highest to lowest priority**;
 - [ ] Set a due time. Add real-time visual and auditive hints to the TO-DO item that indicate that the due time is near and has passed;
+- [ ] Nice usability;
+- [ ] Nice stylesheet and a nice layout out of it;
 - [ ] Work on Chrome.
 
 ### Nice to have
