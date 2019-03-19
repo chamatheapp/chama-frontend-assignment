@@ -35,6 +35,7 @@ If you're not experienced with this kind of stuff and want to give it a shot, yo
 ### Nice to have
 - [ ] Sign-in/Sign-out functionality using [Firebase Auth](https://firebase.google.com/docs/auth/);
 - [ ] Use **[Firebase Realtime Database](https://firebase.google.com/docs/database/)** linked to **Redux** to keep all the TO-DO's;
+- [ ] Optimistic response when dealing with firebase;
 - [ ] Host your working app on the *[Firebase Hosting environment](https://firebase.google.com/docs/hosting/)*;
 - [ ] Responsive (Mobile and Web);
 - [ ] Cross-browser support;
