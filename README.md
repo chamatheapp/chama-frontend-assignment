@@ -18,12 +18,12 @@ You are required to use that same stack in this assignment.
 
 Complementary libraries are permited e.g. lodash, provided that we are able to check how you code using React and Redux.
 
-To speed things up, you can use CRA to bootsrap your app. The architecture CRA generates can be used or discarted, either way you'll have to be able to explain your final solution.
+To speed things up, you can use CRA to bootsrap your app. The architecture CRA generates can be used or discarded, either way you'll have to be able to explain your final solution.
 
 ### Firebase (optional)
 Chama also uses [Firebase](https://firebase.google.com/) to give our dealers a real-time experience. You'll get extra points if you are able to proper host, authenticate and/or provide a real-time experience using Firebase.
 
-**This is totally optional**, so we recommend that it is the last things you try to do - preferentially in a separated branch, which will be merged to your master if you manage to make it work.
+**This is totally optional**, so we recommend that it is the last things you try to do - preferentially in a separate branch, which will be merged to your master if you manage to make it work.
 
 If you're not experienced with this kind of stuff and want to give it a shot, you can create an account in their free-plan with your own Goolge account.
 
@@ -52,7 +52,7 @@ Create a new repo into your favorite git platform (github, bitbucket, etc), copy
 
 You can also add instructions for us in this [file](./instructions.md) - edit it at will.
 
-**After you finished, you can share the repository URL with us (preference) or, if you made it on a private repository, just send us a .zip containing the source code.**
+**After you've finished, you can share the repository URL with us (preferred) or, if you made it on a private repository, just send us a .zip containing the source code.**
 
 If you hosted with firebase, you need to share its URL.
 
