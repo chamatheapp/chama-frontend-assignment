@@ -12,7 +12,13 @@ The goal of this assignment is to have the candidate work with the same tools th
 For this assignment, you are supposed to build a CRUD-complete **to-do list**, persisted on the user's machine.
 
 ### Stack
-At Chama, our frontend stack consists of [React](https://facebook.github.io/react/docs/hello-world.html) + [Redux](http://redux.js.org/) :heart:, therefore it's required that the same stack is used in this assignment. Complementary libraries are free to use (e.g. lodash).
+At Chama, our frontend stack consists of [React](https://facebook.github.io/react/docs/hello-world.html) + [Redux](http://redux.js.org/) :heart:
+
+You are required to use that same stack in this assignment.
+
+Complementary libraries are permited e.g. lodash, provided that we are able to check how you code using React and Redux.
+
+To speed things up, you can use CRA to bootsrap your app. The architecture CRA generates can be used or discarted, either way you'll have to be able to explain your final solution.
 
 ### Firebase
 Chama relies on [Firebase](https://firebase.google.com/) to give our dealers a real-time experience. Because of this, we require that some features of Firebase are used in this assignment. There is a free-plan (default) that supports the requirements of this assignment (Hosting, Auth and real-time Database) and you should be able to start creating a project with your own Google account.
