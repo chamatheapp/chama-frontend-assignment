@@ -48,11 +48,13 @@ But put energy on using good HTML and CSS, it can be vanilla or pre-processed.
 - [ ] Aceptance tests;
 
 ## Instructions
-Create a new repo into your favorite git platform (github, bitbucket, etc), copy this README into it. You're free to edit it, though it should preserve the must-have functionalities and stack.
+Create a new repo into your favorite git platform (github, bitbucket, etc), copy this README into it - as you progress with the assignment, check the boxes above in this README.
 
-**After you finished, you can share the repository URL with us (preference) or just send us a .zip containing the source code.**
+You can also add instructions for us in this [file](./instructions.md) - edit it at will.
 
-When you're done, share your repositoy's and Firebase hosting's URL.
+**After you finished, you can share the repository URL with us (preference) or, if you made it on a private repository, just send us a .zip containing the source code.**
+
+If you hosted with firebase, you need to share its URL.
 
 ## Review
 
