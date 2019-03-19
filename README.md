@@ -78,7 +78,7 @@ If we like what we see, we'll invite you to present your solution! We have a big
 * You don't need to spend time creating a dev/build environment, using [react-create-app](https://github.com/facebookincubator/create-react-app) (and other alike tools) is totally ok!
 * Never done anything with Firebase? You can follow [this guide](https://firebase.google.com/docs/web/setup) and it should give you a nice starting point.
 * Don't need to re-invent the wheel, for components like Datepickers and/or Timepicker you can use [Material-ui](https://github.com/callemall/material-ui) or any other of your choice, it has great integration with React environments.
-* This is a test of your skills (mainly) with React, Redux and (optionally) Firebase. Though we allow third-person libraries, keep in mind that we need to read some code of yours with those tools, so you should write code which touches them instead of using libraries to do so.
+* Even though we allow third-party libraries, try to rely as little as possible on tools that write React-, Redux-, CSS- or firebase-related code for you. As our main focus is your own code (and ingenuity) with those tools.
 * As a company, we believe that communication is the key to success. So if something is not clear to you, or if you have doubts on what you can use, reach the devs.
 * Threat this project as if it would continue working on this after your assignment: maintainability, scalability, and readability are super important.
 
