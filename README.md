@@ -9,7 +9,7 @@
 The goal of this assignment is to have the candidate work with the same tools that are used in every-day Chama web development, so we can learn how one would perform while solving common development tasks that we have.
 
 ### Description
-For this assignment, you are supposed to build a **to-do list** with the ability to add, complete and edit some TO-DO task.
+For this assignment, you are supposed to build a CRUD complete **to-do list**, persisted on the user's machine.
 
 ### Stack
 At Chama, our frontend stack consists of [React](https://facebook.github.io/react/docs/hello-world.html) + [Redux](http://redux.js.org/) :heart:, therefore it's required that the same stack is used in this assignment. Complementary libraries are free to use (e.g. lodash).
