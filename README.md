@@ -37,10 +37,8 @@ If you're not experienced with this kind of stuff and want to give it a shot, yo
 - [ ] Use **[Firebase Realtime Database](https://firebase.google.com/docs/database/)** linked to **Redux** to keep all the TO-DO's;
 - [ ] Optimistic response when dealing with firebase;
 - [ ] Host your working app on the *[Firebase Hosting environment](https://firebase.google.com/docs/hosting/)*;
-- [ ] Responsive (Mobile and Web);
-- [ ] Cross-browser support;
-- [ ] Tests (Unit and/or Acceptance);
-- [ ] UI following [Material Design concepts](https://material.io/)
+- [ ] Unit tests;
+- [ ] Aceptance tests;
 
 ## Instructions
 Create a new repo into your favorite git platform (github, bitbucket, etc), copy this README into it. You're free to edit it, though it should preserve the must-have functionalities and stack.
