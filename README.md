@@ -20,18 +20,22 @@ Complementary libraries are permited e.g. lodash, provided that we are able to c
 
 To speed things up, you can use CRA to bootsrap your app. The architecture CRA generates can be used or discarted, either way you'll have to be able to explain your final solution.
 
-### Firebase
-Chama relies on [Firebase](https://firebase.google.com/) to give our dealers a real-time experience. Because of this, we require that some features of Firebase are used in this assignment. There is a free-plan (default) that supports the requirements of this assignment (Hosting, Auth and real-time Database) and you should be able to start creating a project with your own Google account.
+### Firebase (optional)
+Chama also uses [Firebase](https://firebase.google.com/) to give our dealers a real-time experience. You'll get extra points if you are able to proper host, authenticate and/or provide a real-time experience using Firebase.
+
+**This is totally optional**, so we recommend that it is the last things you try to do - preferentially in a separated branch, which will be merged to your master if you manage to make it work.
+
+If you're not experienced with this kind of stuff and want to give it a shot, you can create an account in their free-plan with your own Goolge account.
 
 ### Must have
-- [ ] Sign-in/Sign-out functionality using [Firebase Auth](https://firebase.google.com/docs/auth/);
-- [ ] Use **[Firebase Realtime Database](https://firebase.google.com/docs/database/)** and **Redux** to keep all the TO-DO's;
-- [ ] Host your working app on the *[Firebase Hosting environment](https://firebase.google.com/docs/hosting/)*;
 - [ ] Assign priority to a TO-DO and sort them by **highest to lowest priority**;
 - [ ] Set a due time. Add real-time visual and auditive hints to the TO-DO item that indicate that the due time is near and has passed;
 - [ ] Work on Chrome.
 
 ### Nice to have
+- [ ] Sign-in/Sign-out functionality using [Firebase Auth](https://firebase.google.com/docs/auth/);
+- [ ] Use **[Firebase Realtime Database](https://firebase.google.com/docs/database/)** linked to **Redux** to keep all the TO-DO's;
+- [ ] Host your working app on the *[Firebase Hosting environment](https://firebase.google.com/docs/hosting/)*;
 - [ ] Responsive (Mobile and Web);
 - [ ] Cross-browser support;
 - [ ] Tests (Unit and/or Acceptance);
