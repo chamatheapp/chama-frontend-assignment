@@ -18,14 +18,14 @@ You are required to use that same stack in this assignment.
 
 Complementary libraries are permited e.g. lodash, provided that we are able to check how you code using React and Redux.
 
-To speed things up, you can use CRA to bootsrap your app. The architecture CRA generates can be used or discarded, either way you'll have to be able to explain your final solution.
+To speed things up, you can use CRA to bootstrap your app. The architecture CRA generates can be used or discarded, either way you'll have to be able to explain your final solution.
 
 ### Firebase (optional)
-Chama also uses [Firebase](https://firebase.google.com/) to give our dealers a real-time experience. You'll get extra points if you are able to proper host, authenticate and/or provide a real-time experience using Firebase.
+Chama also uses [Firebase](https://firebase.google.com/) to give our dealers a real-time experience. You'll get extra points if you are able to properly host, authenticate and/or provide a real-time experience using Firebase.
 
 **This is totally optional**, so we recommend that it is the last things you try to do - preferentially in a separate branch, which will be merged to your master if you manage to make it work.
 
-If you're not experienced with this kind of stuff and want to give it a shot, you can create an account in their free-plan with your own Goolge account.
+If you're not experienced with this kind of stuff and want to give it a shot, you can create an account in their free-plan with your own Google account.
 
 ### Layouting the app
 Don't invest too much on a beautiful visual because in real-life at Chama it would be handed out to you - as a front-ender here you would be able to suggest changes, of course.
